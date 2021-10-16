@@ -1,2 +1,5 @@
 .idea
 loadbalancer/zone1/node_modules
+loadbalancer/zone2/node_modules
+loadbalancer/zone1/bin
+loadbalancer/zone2/bin
